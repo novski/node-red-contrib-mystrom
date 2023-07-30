@@ -1,8 +1,8 @@
-![logo](misc/logo.jpg)
+<!-- ![logo](misc/logo.jpg)
 
 [![Build Status](https://travis-ci.org/myStrom/node-red-contrib-mystrom.svg?branch=master)](https://travis-ci.org/myStrom/node-red-contrib-mystrom) ![npm-version](https://badge.fury.io/js/node-red-contrib-mystrom.svg) [![dependencies Status](https://david-dm.org/myStrom/node-red-contrib-mystrom/status.svg)](https://david-dm.org/myStrom/node-red-contrib-mystrom) [![Packagist](https://img.shields.io/npm/l/node-red-contrib-mystrom.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com)](https://github.com/myStrom/node-red-contrib-mystrom/blob/master/LICENSE)
 
-[![NPM](https://nodei.co/npm/node-red-contrib-mystrom.png?compact=true)](https://nodei.co/npm/node-red-contrib-mystrom/)
+[![NPM](https://nodei.co/npm/node-red-contrib-mystrom.png?compact=true)](https://nodei.co/npm/node-red-contrib-mystrom/) -->
 
 ### Features
 
@@ -12,6 +12,7 @@
 - Status message of how the message was sent
 - Status if message has arrived at destination (TODO)
 - Graphical color picker for lights (TODO)
+- Add Motion PIR Sensor
 
 ### Installation
 
@@ -58,3 +59,8 @@ Usage:
 4.  Press the button on the left side of the button node to upload your configuration to the button. You only need to reupload the data if you have changed something within the button node. If you change what you have attached to the output ports or connect/disconnect nodes from these ports, you do not have to upload it again.
 
 For an advanced user guide on how to use the myStrom nodes see [here](ADVANCED.md)
+
+
+## Roadmap
+
+Let me take time to implement that. Then we will find a way how to get mystrom to acept a PR. Maybe.
